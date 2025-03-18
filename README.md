@@ -1,6 +1,8 @@
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
+```
 Name  : Guttha Keerthana
 Date  : 18-03-2025
+```
 ### AIM:
 To Implement Linear and Polynomial Trend Estiamtion Using Python.
 
